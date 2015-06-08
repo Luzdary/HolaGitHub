@@ -11,6 +11,8 @@ namespace HolaGitHub
         static void Main(string[] args)
         {
             double id;
+            int numero;
+            string nombre;
         }
     }
 }
