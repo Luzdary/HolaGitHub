@@ -10,6 +10,7 @@ namespace HolaGitHub
     {
         static void Main(string[] args)
         {
+            double id;
         }
     }
 }
